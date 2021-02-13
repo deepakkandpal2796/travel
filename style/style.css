@@ -142,15 +142,9 @@ p{
 .menu-open {
   transform: translate(-100%);
   display: flex;
-  text-align: center;
-  width: 20rem;
-  height: 100%;
-
   /* transition: all 2.5s ease-in-out; */
 }
-.menu ul{
-  margin: auto;
-}
+
 .menu ul li {
   list-style: none;
 }
